@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: turbine-server
+  cloud:
+    config:
+      uri: http://config.dev.unicoob.local
+      enabled: true
